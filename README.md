@@ -40,8 +40,10 @@ We found through the use of GridSearch that XG-Boost produced the best results o
 To further test our model we created an additional test set using the 2012 NBA Draft class. We found that the model predicted with an accuracy of 83.67% and an F1 score of 87.5%.
 
 ### Recommendations and Future of the Project
-- Our first recomendation is to organizations that are struggling to develop their rookies. Review the average number of minutes your rookie plays per game. Our data shows a significant relationship between a rookies minutes and his future success.
-- Our second recomendation is that the pick used to select a player in the draft has a negative relationship with the probability of the player playing for longer than the average NBA career.
-- Our third recomendation to organizations is to ignore the NCAA Division I conference a player is coming from. Our data shows that the conference in which a rookie is from doesn't have a significant relationship with his future career length.
+- Our first recommendation is to organizations that are struggling to develop their rookies. Review the average number of minutes your rookie plays per game. Our data show a significant relationship between rookies’ minutes and his future success.
 
-Currently our model is able to analyze future success after the rights of a rookie are already owned, but this project can move to the next level if it were based on amateur statistics, could we predict success before a player is even get drafted?
+- Our second recommendation to organizations when scouting a player is to look at where a player was drafted the year before. The further down a player was drafted, the fewer minutes he is likely to receive, and the less likely he is going to have an above-average career length.
+
+- Our third recommendation to organizations is to ignore the NCAA Division I conference a player is coming from. Our data shows that the conference in which a rookie is from doesn't have a significant relationship with his future career length.
+
+Currently, our model is able to analyze future success after the rights of a rookie are already owned, but this project can move to the next level if it were based on amateur statistics, could we predict success before a player is even get drafted?
