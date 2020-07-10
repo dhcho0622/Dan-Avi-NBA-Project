@@ -47,3 +47,6 @@ To further test our model we created an additional test set using the 2012 NBA D
 - Our third recommendation to organizations is to ignore the NCAA Division I conference a player is coming from. Our data shows that the conference in which a rookie is from doesn't have a significant relationship with his future career length.
 
 Currently, our model is able to analyze future success after the rights of a rookie are already owned, but this project can move to the next level if it were based on amateur statistics, could we predict success before a player is even get drafted?
+
+### Presentation
+https://docs.google.com/presentation/d/1L8l2cnga6HMQUooUVCNYGymJBRN47YGRS6YkZxDCYe0/edit?usp=sharing
