@@ -1,6 +1,6 @@
 ## NBA Rookie Analysis Project
 
-Flatiron Module 3 Project Daniel Cho & Avidan Berman
+Daniel Cho & Avidan Berman
 
 ### Project Overview
 
